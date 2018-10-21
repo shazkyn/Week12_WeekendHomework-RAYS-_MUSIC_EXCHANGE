@@ -1,4 +1,7 @@
-package Behaviours;
+
+package Behaviour;
 
 public interface ISell {
+
+    double markUp();
 }
