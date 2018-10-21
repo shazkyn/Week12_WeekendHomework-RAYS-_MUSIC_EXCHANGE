@@ -586,7 +586,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540140768122" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540140887501" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -628,6 +628,14 @@
       <updated>1540138711431</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InstrumentTest - 2018.10.21 at 17h 52m 05s.xml">
+      <configuration name="InstrumentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InstrumentTest - 2018.10.21 at 17h 52m 44s.xml">
+      <configuration name="InstrumentTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="820" extended-state="0" />
